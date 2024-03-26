@@ -1,0 +1,10 @@
+main{
+    h2{
+        text-indent: 30px;
+        font-size: 180%
+    }
+    form{
+        display: inline-flex;
+        margin-right:250px;
+    }
+}

@@ -1,0 +1,12 @@
+header {
+    a{
+        img{
+            float: right;
+            height: 70px;
+            width: 70px;
+            padding-right: 5em;
+            padding-top: 1em;
+            
+        }
+    }
+}
